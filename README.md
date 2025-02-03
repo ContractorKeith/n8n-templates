@@ -43,12 +43,12 @@ The primary goal of this repository is to:
 ## **Getting Started**
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-organization/AI-Agent-Templates.git
+   git clone https://github.com/ContractorKeith/n8n-templates.git
    ```
 
 2. **Navigate to the Directory:**
    ```bash
-   cd AI-Agent-Templates
+   cd n8n-templates
    ```
 
 3. **Import JSON into n8n:**
